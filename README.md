@@ -1,1 +1,1 @@
-# ship_game
+# Battle ship
